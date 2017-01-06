@@ -1,0 +1,29 @@
+.well-sub {
+	min-height: 20px;
+  	padding: 10px;
+  	background-color: #fff;
+  	border: 1px solid #ededed;
+  	border-radius: 2px;
+  	box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05);
+
+  	h2 {
+  		margin: 0;
+  		padding: 0;
+  		font-size: 20px;
+  	}
+
+  	h3 {
+  		margin: 0;
+  		padding: 0;
+  		font-size: 15px;
+	}
+}
+
+.well-sub-link {
+	color: #000;
+
+	:hover {
+	  	color: #3097D1;
+	  	cursor: pointer;
+	}
+}
